@@ -40,4 +40,4 @@ Once approved, you can merge your changes yourself.
 
 For small changes, you can use the diff in the Github review interface.
 
-For larger changes, you might find it easier to open the notebook in Colab and use the revision history feature, although beware that this will only show changes from when the notebook was copied, not from the master branch.
+For larger changes, you might find it easier use Colab's [notebook diff](https://colab.research.google.com/diff) feature.
