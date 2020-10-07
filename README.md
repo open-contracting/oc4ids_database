@@ -8,7 +8,7 @@ A collection of notebooks used to store and query OC4IDS data in a database
 
 1. In the Github web interface, open the notebook you want to edit and click the 'Open in Colab' badge.
 
-2. Make your changes in Colab.
+2. Make your changes in Colab, use [pgFormatter](http://sqlformat.darold.net/) for any SQL code you add or edit.
 
 ### Commit your changes
 
