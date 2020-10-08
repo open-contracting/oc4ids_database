@@ -16,7 +16,7 @@ Alternatively, you can use the Open in Colab browser extension ([Chrome](https:/
 
 ### Edit a copy of a notebook
 
-1. In the Github web interface, open the notebook you want to edit and click the 'Open in Colab' badge.
+1. Open the notebook in Colab.
 
 2. Make your changes in Colab.
 
@@ -50,10 +50,12 @@ In Colab:
 
 Once approved, you can merge your changes yourself.
 
-### Reviewing changes
+## Reviewing
+
+### Review changes
 
 [Review the changes](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
 
-For small changes, you can use the diff in the Github review interface.
+For small changes, you can review the raw diff in the Github review interface.
 
-For larger changes, you might find it easier use Colab's [notebook diff](https://colab.research.google.com/diff) feature.
+For larger changes, you can review and comment on a visual diff by clicking the <img align="absmiddle"  alt="ReviewNB" height="28" class="BotMessageButtonImage" src="https://raw.githubusercontent.com/ReviewNB/support/master/images/button_reviewnb.png"/> button. You need to authorize the app the first time you open it.
