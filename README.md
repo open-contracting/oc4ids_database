@@ -18,7 +18,7 @@ Alternatively, you can use the Open in Colab browser extension ([Chrome](https:/
 
 1. Open the notebook in Colab.
 
-2. Make your changes in Colab.
+2. Make your changes in Colab, following the [style guide for SQL statements](https://ocp-software-handbook.readthedocs.io/en/latest/python/code.html#sql-statements).
 
 3. Format any SQL code you add or edit using [pgFormatter](http://sqlformat.darold.net/).
 
