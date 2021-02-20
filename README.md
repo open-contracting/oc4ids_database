@@ -2,11 +2,11 @@
 
 A collection of notebooks for storing and querying OC4IDS data in a database.
 
-Use the buttons below to open notebooks from the master branch:
+Use the buttons below to open notebooks from the default branch:
 
 Notebook | Colab link | Description
 -- | -- | --
-[Check and Import](https://github.com/open-contracting/oc4ids_database/blob/master/OC4IDS_Database_Data_Import.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-contracting/oc4ids_database/blob/master/OC4IDS_Database_Data_Import.ipynb) | Use this notebook to check data using the OC4IDS DRT and import the data and check results into the OC4IDS database.
+[Check and Import](https://github.com/open-contracting/oc4ids_database/blob/main/OC4IDS_Database_Data_Import.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-contracting/oc4ids_database/blob/main/OC4IDS_Database_Data_Import.ipynb) | Use this notebook to check data using the OC4IDS DRT and import the data and check results into the OC4IDS database.
 
 To open a notebook from a different branch, use Colab's [Github browser](https://colab.research.google.com/github/open-contracting/oc4ids_database/) to choose the notebook and branch you want to open.
 
