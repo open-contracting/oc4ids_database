@@ -12,6 +12,10 @@ To open a notebook from a different branch, use Colab's [Github browser](https:/
 
 Alternatively, you can use the Open in Colab browser extension ([Chrome](https://chrome.google.com/webstore/detail/open-in-colab/), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-in-colab/)) to add a button that, when clicked when viewing a Jupyter notebook on github, will open that notebook in Colab.
 
+## Database structure
+
+![Database structure](database_structure.png)
+
 ## Contributing
 
 ### Edit a copy of a notebook
